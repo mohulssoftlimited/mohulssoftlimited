@@ -1,10 +1,10 @@
-# Welcome to [Your Company Name] 👋
+# Welcome to Mohuls Soft Limited 👋
 
 ![GitHub Profile Banner](https://via.placeholder.com/1000x300?text=Welcome+to+Our+GitHub+Profile)
 
 ## About Us
 
-Welcome to [Your Company Name]'s GitHub profile! We are passionate about technology and innovation. Here, you'll find projects that showcase our expertise in various domains.
+Welcome to Mohuls Soft Limited's GitHub profile! We are passionate about technology and innovation. Here, you'll find projects that showcase our expertise in various domains.
 
 ## Connect with Us
 
@@ -27,17 +27,17 @@ Welcome to [Your Company Name]'s GitHub profile! We are passionate about technol
 
 ## Our Projects
 
-### Project 1: [Project Name](https://github.com/yourusername/project1)
+### Project 1: [HireCraft ATS](https://app.recruix.com)
 Description of your project.
 
-### Project 2: [Project Name](https://github.com/yourusername/project2)
-Description of your project.
+### Project 2: [10 Minute Program](https://10minuteprogram.net)
+A complete online and offline education institution management system for Managing 10 Minute Program - A sub company of Mohuls Soft Limited
 
 ## Get in Touch
 
-We would love to hear from you! Feel free to reach out to us via [Email](mailto:your-email@example.com) or connect with us on social media.
+We would love to hear from you! Feel free to reach out to us via [Email](mailto:talk@mohuls.com) or connect with us on social media.
 
-![Email](https://img.shields.io/badge/Email-your--email@example.com-red)
+![Email](https://img.shields.io/badge/Email-talk@mohuls.com)
 
 ---
 
